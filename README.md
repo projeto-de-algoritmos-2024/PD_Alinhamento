@@ -48,7 +48,7 @@ Aqui estão algumas imagens que mostram o algoritmo em funcionamento:
    ```  
 3. Execute o aplicativo:  
    ```sh
-   python3 main.py
+   python3 src/alinhamento_sequencia.v3.py
    ```   
 
 ## Uso
