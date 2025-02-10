@@ -61,4 +61,4 @@ Aqui estão algumas imagens que mostram o algoritmo em funcionamento:
 
 A apresentação da entrega está presentes nos hiperlink a seguir:
 
-[![Apresentação](https://youtu.be/NBHC367oeyU)
+[Apresentação](https://youtu.be/NBHC367oeyU)
