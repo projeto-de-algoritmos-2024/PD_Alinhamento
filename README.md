@@ -31,9 +31,9 @@ Benefícios da abordagem gulosa:
 ## Screenshots
 Aqui estão algumas imagens que mostram o algoritmo em funcionamento:
 
-![])
+![pd1](pd1.png)
 
-![]()
+![pd2](pd2.png)
 
 ## Instalação  
 
