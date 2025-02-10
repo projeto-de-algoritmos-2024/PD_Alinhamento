@@ -44,7 +44,7 @@ Aqui estão algumas imagens que mostram o algoritmo em funcionamento:
    ```  
 2. Instale as dependências do projeto:  
    ```sh
-   pip install -r requirements.txt
+   pip install -r src/requirements.txt
    ```  
 3. Execute o aplicativo:  
    ```sh
